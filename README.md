@@ -4,7 +4,7 @@ Bem-vindo ao projeto **Amigo Secreto**!
 Este projeto é uma aplicação em JavaScript que permite adicionar nomes de amigos a uma lista e realizar um sorteio aleatório para escolher quem será o "amigo secreto".  
 Os nomes são salvos no navegador (via `localStorage`), de forma que você não perde sua lista ao recarregar a página.
 
-![preview](https://github.com/KiaraSN/My-Challenge-ONE-L-gica-de-Programa-o---Amigo-secreto/blob/main/challenge-amigo-secreto_pt-main/amgsecreto.jpg)
+![preview](https://github.com/KiaraSN/My-Challenge-ONE-L-gica-de-Programa-o---Amigo-secreto/blob/main/challenge-amigo-secreto_pt-main/assets/surprise.png)
 
 ## 🚀 Funcionalidades
 
@@ -25,12 +25,12 @@ Os nomes são salvos no navegador (via `localStorage`), de forma que você não 
 ## 📷 Preview do Projeto
 
 
-![preview](challenge.png)
+![preview](https://github.com/KiaraSN/My-Challenge-ONE-L-gica-de-Programa-o---Amigo-secreto/blob/main/challenge-amigo-secreto_pt-main/challenge.png)
 
 
 ## 👩‍💻 Feito por
 
-### Kiara  
+### Suellen Bernardo  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-📂 [Meu GitHub](https://github.com/seu-usuario)
+📂 [Portifólio](https://github.com/seu-usuario)
