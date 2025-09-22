@@ -32,5 +32,5 @@ Os nomes são salvos no navegador (via `localStorage`), de forma que você não 
 
 ### Suellen Bernardo  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-📂 [Portifólio](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://br.linkedin.com/in/suellen-bernardo-10b04a1p1)  
+📂 [Portifólio](https://github.com/KiaraSN/Meu-Portfolio/tree/main)
